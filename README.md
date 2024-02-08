@@ -1,7 +1,7 @@
 👋 Hi, I’m Christian Futtrup.
 
-👀 I’m interested in understanding users' behavior when using a product.
+👀 I love Angular and Svelte.
 
-🌱 I’m currently activily learning Miro and Figma, but always learning about the latest front-end tech.
+🌱 Self-development is the key to growing as a person. 
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/futtrup/) or [Twitter](https://twitter.com/cfuttrupdk)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/futtrup/).
